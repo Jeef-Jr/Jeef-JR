@@ -16,16 +16,15 @@ Sou um estudante de Tecnologia e estou me capacitando para entrar no mercado de 
 
 
 
-<h3 align="left">Connect with me: // Conecte-se comigo
-</h3><p align="left"><a href="https://www.linkedin.com/in/lucas-bispo-alencar/" target="blank"><img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="https://www.linkedin.com/in/lucas-bispo-alencar/" height="40" width="40" /></a>
-<a href="https://wa.me/+5511942462950" target="blank"><img src="https://img.icons8.com/doodle/48/000000/whatsapp.png" height="40" width="40" /></a>
+<h3 align="left">Connect with me: // Conecte-se comigo</h3>
+<a href="https://wa.me/+5511953420928" target="blank"><img src="https://img.icons8.com/doodle/48/000000/whatsapp.png" height="40" width="40" /></a>
 
 
  
 <div align="center">
-  <a href="https://github.com/Master-Lukaa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Master-Lukaa&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Master-Lukaa&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/JeeF-Jr">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeeF-Jr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeeF-Jr&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  <div> 
