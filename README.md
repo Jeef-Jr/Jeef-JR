@@ -2,7 +2,7 @@
 
 Seja bem-vindo(a)! 
 
-Sou um estudante de Tecnologia e estou me capacitando para entrar no mercado de trabalho, especificamente na área de desenvolvimento, tenho gostado muito de programar e aprender sobre tecnologia, por que para mim programação é ter a possibilidade de criar aplicações que possam ser úteis e que ajudam as pessoas, e isso é algo que me contagia bastante, sou movido por uma energia e esperança que acredita que se fizermos algo de bom para o mundo, estaremos cultivando um amanhã melhor.
+Sou um estudante de Tecnologia 
 
  
 
