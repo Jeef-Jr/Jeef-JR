@@ -2,7 +2,7 @@
 
 Seja bem-vindo(a)! 
 
-Sou um estudante de Tecnologia e estou me capacitando para entrar no mercado de trabalho, especificamente na área de desenvolvimento, amo programar e aprender sobre tecnologia, a tecnologia hoje que vivemos daqui 10 anos será diferente e eu quero fazer parte de um novo melhor, e isso é algo que me contagia bastante, sou movido por um desejo de melhoria de vida e esperança que acredita que se fizermos algo de bom para o mundo, estaremos cultivando um amanhã melhor.
+
 
  
 
