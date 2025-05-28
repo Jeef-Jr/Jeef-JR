@@ -11,7 +11,7 @@ Seja bem-vindo(a)!
 <img src="https://img.icons8.com/officel/40/000000/react.png"/>
 <img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img src="https://img.icons8.com/color/48/000000/nodejs.png"/>
-<img src="https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-php-computer-science-flaticons-lineal-color-flat-icons.png" "width ="40" height="40"/>
+<img src="https://img.icons8.com/?size=100&id=90519&format=png&color=000000" "width ="40" height="40"/>
 <img src="https://img.icons8.com/fluent/48/000000/mysql-logo.png"/>
 <img src="https://img.icons8.com/nolan/48/git.png"/>
 
